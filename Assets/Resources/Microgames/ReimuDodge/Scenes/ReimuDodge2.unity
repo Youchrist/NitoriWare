@@ -157,7 +157,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -324,6 +324,11 @@ Prefab:
       propertyPath: m_Name
       value: ReimuDodge_Bullet (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 58933806403842494, guid: cb6b06ecd9068444b941812cc3545ab0,
+        type: 2}
+      propertyPath: m_Radius
+      value: 0.4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
   m_IsPrefabParent: 0
@@ -369,6 +374,11 @@ Prefab:
     - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
       propertyPath: m_Name
       value: ReimuDodge_Bullet (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 58933806403842494, guid: cb6b06ecd9068444b941812cc3545ab0,
+        type: 2}
+      propertyPath: m_Radius
+      value: 0.4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
@@ -416,6 +426,11 @@ Prefab:
       propertyPath: m_Name
       value: ReimuDodge_Bullet (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 58933806403842494, guid: cb6b06ecd9068444b941812cc3545ab0,
+        type: 2}
+      propertyPath: m_Radius
+      value: 0.4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
   m_IsPrefabParent: 0
@@ -461,6 +476,11 @@ Prefab:
     - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
       propertyPath: m_Name
       value: ReimuDodge_Bullet (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 58933806403842494, guid: cb6b06ecd9068444b941812cc3545ab0,
+        type: 2}
+      propertyPath: m_Radius
+      value: 0.4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
@@ -508,6 +528,11 @@ Prefab:
       propertyPath: m_Name
       value: ReimuDodge_Bullet (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 58933806403842494, guid: cb6b06ecd9068444b941812cc3545ab0,
+        type: 2}
+      propertyPath: m_Radius
+      value: 0.4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
   m_IsPrefabParent: 0
@@ -553,6 +578,11 @@ Prefab:
     - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
       propertyPath: m_Name
       value: ReimuDodge_Bullet (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 58933806403842494, guid: cb6b06ecd9068444b941812cc3545ab0,
+        type: 2}
+      propertyPath: m_Radius
+      value: 0.4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
@@ -601,6 +631,11 @@ Prefab:
       propertyPath: MinDistance
       value: 1.2364646
       objectReference: {fileID: 0}
+    - target: {fileID: 82995288061661138, guid: 28cd8aa82dcd55a42b58df85d0c3f790,
+        type: 2}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 3695c80e110ec7145a79ddb13a657d02, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 28cd8aa82dcd55a42b58df85d0c3f790, type: 2}
   m_IsPrefabParent: 0
@@ -646,6 +681,11 @@ Prefab:
     - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
       propertyPath: m_Name
       value: ReimuDodge_Bullet (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 58933806403842494, guid: cb6b06ecd9068444b941812cc3545ab0,
+        type: 2}
+      propertyPath: m_Radius
+      value: 0.4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
