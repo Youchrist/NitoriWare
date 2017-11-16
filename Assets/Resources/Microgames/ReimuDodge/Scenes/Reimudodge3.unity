@@ -108,6 +108,144 @@ NavMeshSettings:
     tileSize: 256
     accuratePlacement: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &4543226
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 14.100235
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3.4965382
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (19)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &39930344
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 9.437616
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 10.56567
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &121466474
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -4.399832
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 7.106308
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &143408233
 GameObject:
   m_ObjectHideFlags: 0
@@ -197,3 +335,1422 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &315285838
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -2.1437256
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 10.189652
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &330330494
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 3.4213338
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 10.415262
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &339095301
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -8.9872465
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 10.490465
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &435049511
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 3.2709272
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -13.875475
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &440465253
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 7.031103
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -13.12344
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (24)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &495741429
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -5.3022738
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -11.017741
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &746326531
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -7.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -6.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &820243968
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -5.452681
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 11.618519
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (26)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &820325158
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 12.295349
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -1.9933192
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (18)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &856369708
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 2.8197057
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -9.137653
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &944375174
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4000010474567360, guid: 28cd8aa82dcd55a42b58df85d0c3f790, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000010474567360, guid: 28cd8aa82dcd55a42b58df85d0c3f790, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000010474567360, guid: 28cd8aa82dcd55a42b58df85d0c3f790, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000010474567360, guid: 28cd8aa82dcd55a42b58df85d0c3f790, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000010474567360, guid: 28cd8aa82dcd55a42b58df85d0c3f790, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000010474567360, guid: 28cd8aa82dcd55a42b58df85d0c3f790, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000010474567360, guid: 28cd8aa82dcd55a42b58df85d0c3f790, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000010474567360, guid: 28cd8aa82dcd55a42b58df85d0c3f790, type: 2}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 82995288061661138, guid: 28cd8aa82dcd55a42b58df85d0c3f790,
+        type: 2}
+      propertyPath: MinDistance
+      value: 1.2364646
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 28cd8aa82dcd55a42b58df85d0c3f790, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &946307131
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -13.198644
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -8.235211
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &950760784
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -2.2941332
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -10.040095
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &952306655
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 10.640872
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -9.739282
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (17)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &992190063
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -0.7148591
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -12.220998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (27)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1331768527
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 13.047386
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 9.738429
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (20)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1349112964
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -11.243352
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0.26363808
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1401013961
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -16.13158
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 13.799419
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (28)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1456032338
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 14.852269
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 14.777066
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (30)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1487738799
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 3.4965389
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 8.384768
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1543618430
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 7.8583426
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.62459
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (23)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1829601003
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -8.23521
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.62459
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1876708111
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 15.303491
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -8.536025
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (21)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1908303362
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 16.506746
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -13.725068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (31)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1959480404
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -9.288061
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -8.686433
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &1987699145
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 8.535173
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -3.3469822
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (22)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &2022985795
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -11.995387
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 7.7079363
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &2029421268
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4783993411333168, guid: 6dee4cae0dc62b74ca2e964feef3d7a5, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4783993411333168, guid: 6dee4cae0dc62b74ca2e964feef3d7a5, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4783993411333168, guid: 6dee4cae0dc62b74ca2e964feef3d7a5, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4783993411333168, guid: 6dee4cae0dc62b74ca2e964feef3d7a5, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4783993411333168, guid: 6dee4cae0dc62b74ca2e964feef3d7a5, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4783993411333168, guid: 6dee4cae0dc62b74ca2e964feef3d7a5, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4783993411333168, guid: 6dee4cae0dc62b74ca2e964feef3d7a5, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4783993411333168, guid: 6dee4cae0dc62b74ca2e964feef3d7a5, type: 2}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 6dee4cae0dc62b74ca2e964feef3d7a5, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &2037721234
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -15.529953
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -14.2514925
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (29)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &2076848785
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -11.017741
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3.1205204
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (25)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1001 &2110145976
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 1.3156352
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 8.309563
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4373716625098340, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 1374663489121710, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+      propertyPath: m_Name
+      value: ReimuDodge_Bullet (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: cb6b06ecd9068444b941812cc3545ab0, type: 2}
+  m_IsPrefabParent: 0
