@@ -18,6 +18,8 @@ public class ReimuDodgePlayer : MonoBehaviour
         MicrogameController.instance.setVictory(victory: false, final: true);
         if (alive)
         {
+            MicrogameController.instance.playSFX(deathSound, volume: 0.5f,
+      panStero: AudioHelper.getAudioPan(transform.position.x));
             Kill();
         }
     }
@@ -25,10 +27,9 @@ public class ReimuDodgePlayer : MonoBehaviour
     void Kill()
     {
         // Kill Reimu
-        alive = false; 
+        alive = false;
+
       
-        MicrogameController.instance.playSFX(deathSound, volume: 0.5f,
-    panStero: AudioHelper.getAudioPan(transform.position.x));
         // Get a reference to the player's sprite
         SpriteRenderer spriteRenderer = GetComponentInChildren<SpriteRenderer>();
         // Make the sprite disappear by disabling the the GameObject it's attached to
@@ -45,8 +46,8 @@ public class ReimuDodgePlayer : MonoBehaviour
             panStero: AudioHelper.getAudioPan(transform.position.x));
 
         // Now get a reference to the death exposion and start it
-        ParticleSystem particleSystem = GetComponentInChildren<ParticleSystem>();
-        particleSystem.Play();
+        ParticleSystem DeathExplosion = GetComponentInChildren<ParticleSystem>();
+        DeathExplosion.Play();
     }
 
 }
